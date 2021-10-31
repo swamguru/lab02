@@ -1,0 +1,281 @@
+ps -ef
+history
+mkdir git
+mkdir selenium
+ls
+pwd
+cd git
+pwd
+cd ..
+mv git github
+ls
+rm -rf selenium/
+mkdir linux
+cd linux/
+ls ..
+pwd
+touch file1.txt
+ls
+cat file1.txt
+echo "Hello World"
+echo "Hello World" >> file1.txt
+cat file1.txt
+echo "Hello World01" >> file1.txt
+cat file1.txt
+vi file1.txt
+ls
+rm file1.txt
+ls
+sudo su
+ls
+touch file1.txt
+touch file2.txt
+mkdir folder01
+mkdir folder02
+ls
+cd ..
+rm -rf linux/
+ls
+clear
+apt-get install git
+sudo apt-get install git
+history
+pwd
+cd ls
+ls
+cd github/
+pwd
+cd /var/log/jenkins/
+pwd
+cd /home/swamig8gmail/github/
+cd -
+echo "Hello World" >> file1.txt
+echo "Hello World01" >> file1.txt
+cat file1.txt
+echo "Hello World02" >> file1.txt
+cat file1.txt
+echo "Hello Simplilearn" > file1.txt
+cat file1.txt
+history > history_cmd.txt
+cat history_cmd.txt
+git
+ls
+ls -lta
+vi /var/log/dpkg.log
+ls -lta /var/log/dpkg.log
+sudo cp /var/log/dpkg.log /var/log/dpkg-swami.log
+ls -lta /var/log/dpkg.log
+ls -lta /var/log/dpkg-swami.log
+chmod -w /var/log/dpkg-swami.log
+sudo chmod -w /var/log/dpkg-swami.log
+ls -lta /var/log/dpkg-swami.log
+sudo chmod 755 /var/log/dpkg-swami.log
+ls -lta /var/log/dpkg-swami.log
+vi /var/log/dpkg-swami.log
+sudo chmod 777 /var/log/dpkg-swami.log
+vi /var/log/dpkg-swami.log
+ls -lta /var/log/dpkg-swami.log
+ls -lta /var/log/dpkg.log
+lsb_relese -a
+lsb_release -a
+vi file1.txt
+git --version
+lsb_release -a
+pwd
+mkdir git
+cd git
+git clone https://github.com/swamguru/sample001.git
+ls
+cd sample001/
+ls
+git remote -v
+history
+ls
+vi sample.yaml
+cat sample.yaml
+git status
+git diff
+git add sample.yaml
+git commit -m "Adding new line on sample.yaml"
+git config --help
+git config user.name swamguru
+git config user.email swamguru@outlook.com
+git config -l
+git commit -m "Adding new line on sample.yaml"
+git remote -v
+git push origin
+history
+git push origin
+git remote -v
+cd .
+cd ..
+pwd
+git clone https://github.com/swamguru/Source-repository.git
+cd Source-repository/
+pwd
+git remote -v
+git remote add upstream https://github.com/GithubResources1/Source-repository.git
+git remote -v
+ls
+echo "Hello Example" >> README.md
+cat README.md
+git status
+git diff
+git add README.md
+git commit -m "New line in Readme"
+git config --global user.email swamguru@outlook.com
+git commit -m "New line in Readme"
+git remote -v
+git push upstream
+git push origin
+echo "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"
+pwd
+cd ../..
+touch passpharse
+ls
+echo "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" >> passpharse
+cat passpharse
+cd git/Source-repository/
+ls
+git log
+git sttatus
+git status
+ls
+echo "123" >> README.md
+git diff
+git status
+git add README.md
+git status
+git pull origin
+git log
+git pull origin
+git stash
+git pull origin
+git log
+git config --system
+cd ~
+pwd
+cd git/Source-repository/
+ls -lta
+cd git
+ls
+mkdir lab02
+touch print.jva
+mv print.jva print.java
+touch print.python
+ls
+mv print.* lab02/.
+ls
+cd lab02/
+ls
+echo "# lab02" >> README.md
+ls
+ls -lta
+cd ../Source-repository/
+ls -lta
+git status
+cd ../lab02/
+ls -lta
+git status
+git init
+git status
+git add README.md print.java print.python
+git status
+git branch
+git commit -m "first commit"
+git branch -M main
+git branch
+git remote add origin https://github.com/swamguru/lab02.git
+git push -u origin main
+history
+ls
+git branch
+cd ..
+ls
+vi sample001_copy\ 1/README.md
+cd lab02/
+ls
+git branch
+git branch feature1
+git branch
+git checkout feature1
+git branch
+vi print.java
+echo "Hello World" >> print.java
+git status
+git diff main
+git branch
+git add print.java
+git commit -m "java"
+git push origin feature1
+git banch
+git branch
+git checkout main
+git checkout feature1
+git branch
+git checkout main
+git checkout -b feature2
+git branch
+git checkout main
+git branch feature3
+git branch
+git checkout feature3
+git branch
+git branch -m feature2 feat2
+git branch
+git branch -d feat2
+git branch
+git branch -d feature3
+git branch -m feature3 feat3
+git branch
+git branch -d feat3
+git checkout main
+git branch
+git branch -d feat3
+git branch
+history
+git checkout -b lab06
+git branch
+touch file02
+ls
+git status
+git add file02
+git commit -m "new file"
+git branch
+git log
+git diff main
+git branch main
+git checkout main
+git branch
+history
+git branch
+git checkout lab06
+git checkout main
+git diff lab06
+ls
+git checkout lab06
+ls
+git checkout main
+git checkout lab06
+git branch
+git checkout main
+git merge lab06
+ls
+git branch
+git diff lab06
+git log
+git push origin main
+history
+git log
+git pull origin main
+git log
+history
+history > /tmp/history
+cat /tmp/history
+history | awk '{for (i=4; i<NF; i++) printf $i " "; print $NF}'
+cd ~
+echo "history | awk '{for (i=4; i<NF; i++) printf $i " "; print $NF}'" > commands
+cat commands
+vi commands
+cd git/lab02/
+history | awk '{for (i=4; i<NF; i++) printf $i " "; print $NF}' > history
